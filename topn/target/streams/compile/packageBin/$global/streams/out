@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mPackaging /Users/a078201/workspace/topn/target/scala-2.11/topnanalysis_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	topnanalysis/topn.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/a078201/workspace/topn/target/scala-2.11/classes/topnanalysis/topn.class[0m
+[0m[[0mdebug[0m] [0m	topnanalysis[0m
+[0m[[0mdebug[0m] [0m	  /Users/a078201/workspace/topn/target/scala-2.11/classes/topnanalysis[0m
+[0m[[0mdebug[0m] [0m	topnanalysis/topNapp$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/a078201/workspace/topn/target/scala-2.11/classes/topnanalysis/topNapp$.class[0m
+[0m[[0mdebug[0m] [0m	topnanalysis/topNapp.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/a078201/workspace/topn/target/scala-2.11/classes/topnanalysis/topNapp.class[0m
+[0m[[0mdebug[0m] [0m	topnanalysis/topNapp$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/a078201/workspace/topn/target/scala-2.11/classes/topnanalysis/topNapp$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	topnanalysis/topNapp$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/a078201/workspace/topn/target/scala-2.11/classes/topnanalysis/topNapp$$anonfun$1.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
